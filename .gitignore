@@ -1,4 +1,7 @@
 __pycache__
 .venv
 *.pkl
+*.joblib
 temp.py
+temp.ipynb
+Data/creditcard_fraud.csv

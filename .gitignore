@@ -5,3 +5,4 @@ __pycache__
 temp.py
 temp.ipynb
 Data/creditcard_fraud.csv
+*.parquet
